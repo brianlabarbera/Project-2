@@ -1,0 +1,33 @@
+body {
+    background-image: url('https://i.etsystatic.com/19543171/r/il/c81a8d/2109021831/il_570xN.2109021831_m09g.jpg');
+    background-repeat:repeat;
+    }
+
+    @media (min-width: 768px) {
+        .carousel-multi-item-2 .col-md-3 {
+        float: left;
+        width: 25%;
+        max-width: 100%; } }
+        
+        .carousel-multi-item-2 .card img {
+        border-radius: 2px; }
+
+footer {
+    font-weight:bold;
+}
+
+.caption {
+    font-weight:bold;
+    text-align:center;
+}
+
+h1 {
+    text-align:center;
+    text-decoration:underline;
+    font-family:impact;
+}
+
+p {
+    font-family:impact;
+    text-align:center;
+}
